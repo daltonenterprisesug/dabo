@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dalton Enterprises UG - Plastic Products</title>
+<style>
+body{font-family:Arial;margin:0;background:#f4f4f4}
+header{background:#0a7a42;color:#fff;padding:20px;text-align:center}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:12px}
+.card{background:#fff;border-radius:12px;padding:10px;text-align:center}
+.card img{width:100%;height:180px;object-fit:contain}
+.price{font-weight:bold;color:#0a7a42;font-size:18px}
+.btn{display:block;background:#25D366;color:#fff;padding:10px;border-radius:8px;text-decoration:none;margin-top:8px;font-weight:bold}
+</style></head><body>
+<header><h1>DALTON ENTERPRISES UG</h1><p>Quality Plastic Products - Kampala, Uganda<br>Call / WhatsApp: 0700 000 000</p></header>
+<div class="grid">
+<div class="card">
+<img src="H4c707c0d0b2449658538f0dbca3e5562o-removebg-preview.png">
+<h3>220L Drum - Blue</h3><p>Strong HDPE drum for water & storage</p>
+<div class="price">UGX 150,000</div>
+<a class="btn" href="https://wa.me/256700000000?text=I want 220L Drum">Order on WhatsApp</a></div>
+<div class="card">
+<img src="Image-Search-ProdPic-removebg-preview.png">
+<h3>660L Waste Bin - Green</h3><p>Large wheelie bin for home & business</p>
+<div class="price">UGX 450,000</div>
+<a class="btn" href="https://wa.me/256700000000?text=I want 660L Waste Bin">Order on WhatsApp</a></div>
+<div class="card">
+<img src="H3a64f97701434f18b785347ac17cf5d8E.jpg">
+<h3>Plastic Pallet - Blue</h3><p>Heavy duty pallet for storage & transport</p>
+<div class="price">UGX 250,000</div>
+<a class="btn" href="https://wa.me/256700000000?text=I want Plastic Pallet">Order on WhatsApp</a></div>
+</div>
+<p style="text-align:center;padding:20px">© Dalton Enterprises UG - Kampala</p>
+</body></html>
